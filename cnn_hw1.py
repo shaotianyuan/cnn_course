@@ -149,4 +149,3 @@ def random_warp(img, row, col):
 M_warp, img_warp = random_warp(img_ori, img_ori.shape[0], img_ori.shape[1])
 my_show(img_warp)
 
-print('dataup')
